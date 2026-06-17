@@ -1,0 +1,14 @@
+C:\class12\csharptutorial\Csharpproject\bin\Debug\net10.0\Csharpproject.exe
+C:\class12\csharptutorial\Csharpproject\bin\Debug\net10.0\Csharpproject.deps.json
+C:\class12\csharptutorial\Csharpproject\bin\Debug\net10.0\Csharpproject.runtimeconfig.json
+C:\class12\csharptutorial\Csharpproject\bin\Debug\net10.0\Csharpproject.dll
+C:\class12\csharptutorial\Csharpproject\bin\Debug\net10.0\Csharpproject.pdb
+C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.AssemblyInfoInputs.cache
+C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.AssemblyInfo.cs
+C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.csproj.CoreCompileInputs.cache
+C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.dll
+C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\refint\Csharpproject.dll
+C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.pdb
+C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.genruntimeconfig.cache
+C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\ref\Csharpproject.dll
