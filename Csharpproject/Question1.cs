@@ -3,11 +3,18 @@ using System.Security.Cryptography;
 
 class Question1
 {
-     public static void Display()
+     public void Display()
      {
-      Console.WriteLine("Name : Pratham Adhikari");
-      Console.WriteLine("Age : 17");
-      Console.WriteLine("City : Pokhara");
+      
+      string name;
+      int age;
+      string city;
+
+      name = "Pratham Adhikari ";
+      age = 17;
+      city = "pokhara";
+
+      Console.WriteLine($"name is { name } age is {age} and city is {city}");
 
      }
 }
