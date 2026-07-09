@@ -8,8 +8,12 @@ class Program
     {
         // Question2.Sum(1,2);
         
-         Question3 obj = new Question3();
-         obj.Marks();
+         //Question3 obj = new Question3();
+         //obj.Marks();
+
+       Question7 obj = new Question7();
+       obj.Perimeter();
+       
     }
 
 }
