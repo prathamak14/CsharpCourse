@@ -11,9 +11,15 @@ class Program
          //Question3 obj = new Question3();
          //obj.Marks();
 
-       Question7 obj = new Question7();
-       obj.Perimeter();
+       //Question7 obj = new Question7();
+    //  obj.Perimeter();
        
+//Classwork obj = new Classwork();
+//obj.PositiveNegative();
+
+Classwork5 obj = new Classwork5();
+obj.Vote();
+
     }
 
 }

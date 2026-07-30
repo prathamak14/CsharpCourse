@@ -12,4 +12,3 @@ class Question7
         Console.WriteLine($"the perimeter is {peimeter}");
     }
 }
-    
