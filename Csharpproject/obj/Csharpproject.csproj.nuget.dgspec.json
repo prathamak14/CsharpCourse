@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\class12\\csharptutorial\\Csharpproject\\Csharpproject.csproj": {}
+    "K:\\class 12 (pratham)\\csharptutorial\\CsharpCourse\\Csharpproject\\Csharpproject.csproj": {}
   },
   "projects": {
-    "C:\\class12\\csharptutorial\\Csharpproject\\Csharpproject.csproj": {
+    "K:\\class 12 (pratham)\\csharptutorial\\CsharpCourse\\Csharpproject\\Csharpproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\class12\\csharptutorial\\Csharpproject\\Csharpproject.csproj",
+        "projectUniqueName": "K:\\class 12 (pratham)\\csharptutorial\\CsharpCourse\\Csharpproject\\Csharpproject.csproj",
         "projectName": "Csharpproject",
-        "projectPath": "C:\\class12\\csharptutorial\\Csharpproject\\Csharpproject.csproj",
+        "projectPath": "K:\\class 12 (pratham)\\csharptutorial\\CsharpCourse\\Csharpproject\\Csharpproject.csproj",
         "packagesPath": "C:\\Users\\class12\\.nuget\\packages\\",
-        "outputPath": "C:\\class12\\csharptutorial\\Csharpproject\\obj\\",
+        "outputPath": "K:\\class 12 (pratham)\\csharptutorial\\CsharpCourse\\Csharpproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\class12\\AppData\\Roaming\\NuGet\\NuGet.Config"

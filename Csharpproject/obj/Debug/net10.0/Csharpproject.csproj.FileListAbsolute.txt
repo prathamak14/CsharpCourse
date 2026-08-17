@@ -13,3 +13,18 @@ C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.pdb
 C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.genruntimeconfig.cache
 C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\ref\Csharpproject.dll
 C:\class12\csharptutorial\Csharpproject\obj\Debug\net10.0\Csharpproject.sourcelink.json
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.GeneratedMSBuildEditorConfig.editorconfig
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.AssemblyInfoInputs.cache
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.AssemblyInfo.cs
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.csproj.CoreCompileInputs.cache
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.sourcelink.json
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.dll
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\refint\Csharpproject.dll
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.pdb
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\bin\Debug\net10.0\Csharpproject.exe
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\bin\Debug\net10.0\Csharpproject.deps.json
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\bin\Debug\net10.0\Csharpproject.runtimeconfig.json
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\bin\Debug\net10.0\Csharpproject.dll
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\bin\Debug\net10.0\Csharpproject.pdb
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.genruntimeconfig.cache
+K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\ref\Csharpproject.dll

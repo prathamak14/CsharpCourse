@@ -14,12 +14,13 @@ class Program
        //Question7 obj = new Question7();
     //  obj.Perimeter();
        
-//Classwork obj = new Classwork();
-//obj.PositiveNegative();
 
-Classwork5 obj = new Classwork5();
-obj.Vote();
 
+//Classwork6 obj = new Classwork6();
+//obj.Divisible();
+
+ExamQuestion obj = new ExamQuestion();
+obj.Question();
     }
 
 }
