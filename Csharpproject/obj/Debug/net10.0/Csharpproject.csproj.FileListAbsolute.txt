@@ -17,7 +17,6 @@ K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.
 K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.AssemblyInfoInputs.cache
 K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.AssemblyInfo.cs
 K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.csproj.CoreCompileInputs.cache
-K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.sourcelink.json
 K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.dll
 K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\refint\Csharpproject.dll
 K:\class 12 (pratham)\csharptutorial\CsharpCourse\Csharpproject\obj\Debug\net10.0\Csharpproject.pdb

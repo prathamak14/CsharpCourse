@@ -16,11 +16,14 @@ class Program
        
 
 
-//Classwork6 obj = new Classwork6();
-//obj.Divisible();
 
-ExamQuestion obj = new ExamQuestion();
-obj.Question();
+// ExamQuestion obj = new ExamQuestion();
+//obj.Question();
+
+  // Function1.Functionfirst();
+//Array.DArray();
+//Array2.Doubledimwnsional();
+Array3.Arraythree();
     }
 
 }
